@@ -9,7 +9,6 @@
     }
 </style>
 <center>Fire Bot</center> -->
-
 <h1 align="center" >Fire Bot</h1>
 
 ---
