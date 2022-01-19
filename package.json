@@ -1,0 +1,24 @@
+{
+  "name": "fire-bot",
+  "version": "1.0.0",
+  "description": "A Discord.js V13 Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavadaragon15396/Fire-Bot.git"
+  },
+  "author": "Tad Dufort",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lavadaragon15396/Fire-Bot/issues"
+  },
+  "homepage": "https://github.com/lavadaragon15396/Fire-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security"
+  }
+}
